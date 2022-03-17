@@ -10,6 +10,8 @@
 ## - estilização
 # 
 #  Bibliotecas
+### <li> https://fonts.google.com/ - Google Fonts
 ### <li> https://swiperjs.com/ - carousel
 ### <li> https://scrollrevealjs.org/ - scroll reveal
 ### <li> https://unsplash.com/ - Imagens gratuitas
+### <li> https://icomoon.io/ - Icons
